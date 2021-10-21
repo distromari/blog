@@ -1,0 +1,8 @@
+[mdzk]
+authors = ["distromari"]
+ignore = []
+language = "en"
+multilingual = false
+src = "notes"
+title = "My mdzk"
+backlinks-header = "Backlinks"
