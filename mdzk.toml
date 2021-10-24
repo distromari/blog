@@ -4,7 +4,7 @@ ignore = []
 language = "en"
 multilingual = false
 src = "notes"
-title = "My mdzk"
+title = "Mari's braincells"
 backlinks-header = "Backlinks"
 
 [build]
